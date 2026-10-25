@@ -1,6 +1,4 @@
 # CNTT1-nh-p-m-n-c-ng-ngh-th-ng-tin-Session12_Ex01
-Dạ, mình đã tinh chỉnh lại nội dung cực kỳ ngắn gọn, sử dụng văn phong tự nhiên, súc tích và lược bỏ hoàn toàn các cấu trúc rườm rà hay từ ngữ thường bị nhận diện là AI. Bạn có thể sử dụng trực tiếp dưới đây:
-
 ---
 
 ### PHẦN 1. PHÂN TÍCH DATABASE
